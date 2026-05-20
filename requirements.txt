@@ -1,6 +1,8 @@
-g4f
-requests
-aiohttp
-brotli
-pycryptodome
-curl_cffi
+aiohttp==3.13.5
+aiohttp-retry==2.9.1
+brotli==1.2.0
+curl_cffi==0.15.0
+g4f==7.5.5
+pycryptodome==3.23.0
+requests==2.34.2
+requests-oauthlib==2.0.0
